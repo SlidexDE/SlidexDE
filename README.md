@@ -1,4 +1,5 @@
 - Developer on [Dragonfire](https://discord.gg/pJ5f33nMaQ)
+- My [Development Discord](https://discord.gg/bX4h2nTGcg)
 
 [![Discord](https://discord.c99.nl/widget/theme-1/796035662456422481.png)](#)
 
