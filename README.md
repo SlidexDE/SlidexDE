@@ -1,2 +1,1 @@
-👋 » Hello, my name is Till.
-I am a Minecraft Java & Bedrock player. I also have a lot of experience with "Pocketmine", a Minecraft server software. In addition, I am currently working with the "PHP" programming language. 
+<img src="https://github-readme-stats.vercel.app/api?username=SlidexDE&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
