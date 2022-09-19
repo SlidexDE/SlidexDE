@@ -1,5 +1,4 @@
 ### About me:
-- Working on [Dragonfire](https://dsc.gg/dragonfire)
 - I'm from [Germany](https://www.google.com/maps/place/Deutschland)
 
 ### My AntiAFK plugin:
